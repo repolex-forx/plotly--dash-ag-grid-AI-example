@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "dash-ag-grid-AI-example",
+  "versions": [
+    {
+      "commit": "3e16de68121e34f58ffae3b913fad0fb06793b02",
+      "tag": "",
+      "parsed_at": "2026-11-07T08:02:19.382757+00:00"
+    }
+  ]
+}
