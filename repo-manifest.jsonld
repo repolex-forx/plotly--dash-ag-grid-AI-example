@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/plotly/dash-ag-grid-AI-example/commit/3e16de68121e34f58ffae3b913fad0fb06793b02",
       "git:hexsha": "3e16de68121e34f58ffae3b913fad0fb06793b02",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
