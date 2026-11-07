@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "plotly",
+  "repo": "dash-ag-grid-AI-example",
+  "versions": [
+    {
+      "commit": "3e16de68121e34f58ffae3b913fad0fb06793b02",
+      "parsed_at": "2026-11-07T07:59:59.404502+00:00",
+      "filetree": "filetree/3e16de68121e34f58ffae3b913fad0fb06793b02.nq.gz",
+      "blobs": [
+        "blob/4ae0d6c785c29ae29a8adb72526805506e6f2b1b.nq.gz",
+        "blob/1aa071ffda8cbade8f3a2d5526e963164d0e85c8.nq.gz",
+        "blob/808a9a0934abc3a1518c172fd68cbdde51717d15.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
